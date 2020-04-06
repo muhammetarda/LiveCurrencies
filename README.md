@@ -1,9 +1,10 @@
-# LiveCurrencies
-Live Currencies  C# - investing.com
+# Live Currencies
+
+Live Currencies
 
 # Features!
 
-- USD , EURO , GBP , BTC currency data get
+- USD , EURO , GBP , BTC currency data get (**Data Source : investing.com**)
 - İnfo Screen
 - Network Check
 - Version Check (beta)
